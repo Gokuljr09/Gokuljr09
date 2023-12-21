@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gokuljr09
 - 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently studying BCA
 - 💞️ I’m looking to collaborate on data analysis 
-- 📫 How to reach me ...
+- 📫
 
 <!---
 Gokuljr09/Gokuljr09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
